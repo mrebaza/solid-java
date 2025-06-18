@@ -1,6 +1,5 @@
 package com.rebaza.solid_java.LSP.ejemplo1;
 
-import java.io.FileReader;
 
 public class MainGoodFileProcessor {
     public static void main(String[] args){

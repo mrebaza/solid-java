@@ -4,7 +4,7 @@ public class File {
     protected String content;
 
     public File(String initialContent){
-        this.content = content;
+        this.content = initialContent;
     }
 
     public String read(){
